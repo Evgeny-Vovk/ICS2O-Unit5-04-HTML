@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="ri7uw2T-APz-UwPrTV6L" name="Page-1">
+        <mxGraphModel dx="2553" dy="1110" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="16y/o, thursday = student" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="339" y="520" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="15y/o, monday = regular" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="339" y="380" width="150" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="60y/o, sunday = regular" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+                    <mxGeometry x="339" y="240" width="150" height="100" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
